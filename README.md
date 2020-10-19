@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#!">
-    <img src="images/logo.png" alt="Logo" width="80">
+    <img src="images/logo.png" alt="Logo">
   </a>
   <h3 align="center">Pemrograman Mobile 2</h3>
   <p align="center">
